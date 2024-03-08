@@ -1,4 +1,6 @@
 nombre = "Mary"
-saludo = "Cómo estás?"
+apellido = " Laguna"
+título = "doctora"
+saludo = "Cómo está?"
 
-print("Hola, " + nombre + ". " + saludo)
+print("Hola, " + título + apellido + ". " + saludo)
