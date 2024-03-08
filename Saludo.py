@@ -1,4 +1,4 @@
-nombre = Mary
-saludo = Cómo estás?
+nombre = "Mary"
+saludo = "Cómo estás?"
 
 print("Hola, " + nombre + ". " + saludo)
